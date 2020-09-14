@@ -15,7 +15,7 @@ teaser_image: "images/teaser.jpg"
 Online speaking event for students aged 4 -16 to boost their confidence and public speaking skills. Public speaking is considered to be one of the most important skills and it helps in building confidence and self-belief in younger minds. Send a message for more details.
 
 ---
-image: "/static/images/Online public speaking contest-v1.0.png"
+teaser_image: "/static/images/Online public speaking contest-v1.0.png"
 
 # The Future - Today!
 
